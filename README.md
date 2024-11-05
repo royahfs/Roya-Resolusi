@@ -1,2 +1,2 @@
 # Roya-Resolusi
-Resolusi Roya untuk 5 tahun ke depan
+Repository untuk menyimpan rencana Roya untuk 5 tahun ke depan
